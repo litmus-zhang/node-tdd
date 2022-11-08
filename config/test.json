@@ -1,0 +1,11 @@
+{
+    "database": {
+      "database": "hoazify",
+      "username": "username",
+      "password": "password",
+      "dialect": "sqlite",
+      "storage": "./test.sqlite",
+      "logging": false
+    }
+  }
+  
